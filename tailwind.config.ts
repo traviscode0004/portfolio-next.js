@@ -11,6 +11,9 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        black: "#1A1A1A", 
+      },gridTemplateColumns: {
+        "auto-fit": "repeat(auto-fit, minmax(200px, 1fr))",
       },
     },
   },
